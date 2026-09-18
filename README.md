@@ -5,9 +5,11 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&label=Vues%20du%20profil&color=0e75bb&style=flat" alt="Profile Views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=JusteAgbo05&label=Vues%20du%20profil&color=0e75bb&style=flat" 
+    alt="Profile Views" 
+  />
 </p>
-
 ---
 
 ###  À propos de moi
@@ -28,11 +30,22 @@
 
 ---
 
-###  Statistiques GitHub
+### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JusteAgbo05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JusteAgbo05&theme=tokyo-night&hide_border=true" width="100%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JusteAgbo05&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JusteAgbo05&theme=tokyo-night&hide_border=true" 
+    width="100%" 
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
