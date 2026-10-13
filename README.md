@@ -1,5 +1,12 @@
 <!-- HEADER ANIMÉ (Typing SVG) -->
 <p align="center">
+  <img
+    src="assets/github-banner.png"
+    alt="AGBO Juste Vivien Sèdjro — Full-Stack Developer & Future ML Engineer"
+    width="100%"
+  />
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Bonjour%2C+moi+c'est+Juste+AGBO;D%C3%A9veloppeur+web+Full-Stack+%26+Data+Scientist+Junior" alt="Typing SVG" />
   </a>
@@ -30,7 +37,7 @@
 
 ---
 
-### 📊 Statistiques GitHub
+###  Statistiques GitHub
 
 <p align="center">
   <img 
