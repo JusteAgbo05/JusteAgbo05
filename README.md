@@ -21,10 +21,14 @@
 
 ###  À propos de moi
 
-- Je travaille actuellement sur des applications web performantes et l'analyse de données.
-- J'approfondis mes compétences en **Full-Stack (Laravel, React, Node.js)** et en **Machine Learning / Data Science**.
-- Passionné par la résolution de problèmes complexes et la modélisation de données.
-
+- Je développe des applications web Full-Stack, de l'interface utilisateur au backend.
+- J'approfondis mes compétences en Data Science, Machine Learning
+    et Deep Learning.
+- J'aime apprendre en construisant des projets concrets et en
+    résolvant des problèmes.
+- Je m'intéresse aux usages du numérique et de l'IA pour répondre à
+    des défis réels.
+- Je continue à apprendre, expérimenter et améliorer mes pratiques.
 ---
 
 ###  Langages & Technologies
@@ -39,14 +43,9 @@
 
 ###  Statistiques GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JusteAgbo05&theme=tokyonight&hide_border=true" 
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=JusteAgbo05&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=JusteAgbo05&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ###  Me contacter
@@ -57,6 +56,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vivienagbo56@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" />
   </a>
 </p>
